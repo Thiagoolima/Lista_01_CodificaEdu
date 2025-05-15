@@ -23,7 +23,7 @@ Esse comando irá instalar automaticamente a biblioteca `prompt-sync` com base n
 
 ## ▶️ Como Executar os Exercícios
 
-Cada exercício está em um arquivo separado. Para executar, use o seguinte comando no terminal, substituindo pelo número do exercício desejado:
+Cada exercício está em um arquivo separado. Para executar, certifique-se que seu terminal está dentro da pasta `lista_1` e use o seguinte comando no terminal, substituindo pelo número do exercício desejado:
 
 ```bash
 node 01.js
@@ -43,3 +43,4 @@ Você pode repetir isso para qualquer outro arquivo (`03.js`, `04.js`, etc.).
 
 - Todos os exercícios usam **entrada via terminal**, então você precisará digitar valores conforme solicitado.
 - O diretório `node_modules` está ignorado no `.gitignore`, portanto não será versionado no Git.
+- O arquivo `Lista01_Agrupados.js` não roda, ele reúne o código de todos os exercícios para leitura, como são códigos independentes no mesmo arquivo ele apresenta diversos erros como nomes de variáveis duplicados. favor executar o código individual conforme indicado acima.
