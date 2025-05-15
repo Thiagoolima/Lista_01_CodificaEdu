@@ -4,7 +4,6 @@
 ## ✅ Pré-requisitos
 
 - **Node.js** instalado na sua máquina.  
-  Verifique com o comando:
 ---
 
 ## Clone do repositório
@@ -12,7 +11,7 @@
 Para clonar o reposirório certifique-se de que possue a chave ssh instalada e configurada na máquina e no github.
 Acesse a pagina onde deseja criar o repositório e execute o seguinte comando em seu terminal:
 ```bash
-git clone git@github.com:Thiagoolima/painel_escalas.git
+git clone git@github.com:Thiagoolima/Lista_01_CodificaEdu.git
 ```
 Após efetuado o clone acesse a pasta raiz e execute comando para fazer build do projeto:
 ```bash
